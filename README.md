@@ -26,7 +26,7 @@
 
 ### :hammer_and_wrench: Языки и Инструменты :
 
-![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black)
+![Java](https://img.shields.io/badge/Java-%23DD0031?style=for-the-badge&logo=java&logoColor=black)
 ![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -52,4 +52,5 @@
 
 ### :fire: Моя Статистика :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JavaDen44&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JavaDen44&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavaDen44&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
