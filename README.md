@@ -20,7 +20,8 @@
 ### :man_technologist: Обо Мне :
 
 Я разработчик на Java <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :mailbox:Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/-d_e_m_i_d_o_v-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/d_e_m_i_d_o_v)
+- :zap: В свободное время я решаю задачи на Leetcode и читаю технические статьи.
+- :mailbox: Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/-d_e_m_i_d_o_v-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/d_e_m_i_d_o_v)
 
 ---
 
